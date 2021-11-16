@@ -1,5 +1,7 @@
 # Thanos JS (demo site)
 
+https://www.netlify.com/img/deploy/button.svg
+
 Silly demo site to be used for [Netlify Drop](https://app.netlify.com/drop).
 
 Preview demo site [right here](https://www.thanosjs.org).
